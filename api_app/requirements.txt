@@ -13,5 +13,5 @@ jsonschema[format_nongpl]==4.1.0
 msal==1.15.0
 opencensus-ext-azure==1.1.0
 opencensus-ext-logging==0.1.1
-PyJWT==2.2.0
+PyJWT==2.4.0
 uvicorn[standard]==0.15.0
